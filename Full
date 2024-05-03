@@ -1200,10 +1200,1122 @@ https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 
 ################################### TV PALESTINA ###################################
 
-#EXTINF:-1 group-title="TV Palestina" tvg-id="AlNajahNews.ps" tvg-logo="https://i.imgur.com/c2bwn4G.png",Al Najah News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 
-#EXTINF:-1 group-title="TV Palestina" tvg-id="AlQudsOpenUniversity.ps" tvg-logo="https://i.imgur.com/AHzY3Wn.png",Al-Quds Open University
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/11…"
- https://raw.githubusercontent.com/tiadasinyal/Nosignal/main/Cling#:~:text=%23EXTM3U%20x%2Dtvg,net/radio/fares_abbad
+g" tvg-chno="521" group-title="Channel Samsung TV" , MBC 옷소매 붉은끝동
+https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC4400003SD" tvg-id="KRBC4400003SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20231114T070142SQUARE.png_20231114070143.png" tvg-chno="522" group-title="Channel Samsung TV" , KBS 1박2일 시즌1
+https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC5000020AF" tvg-id="KRBC5000020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20231011T013507SQUARE.png_20231011013508.png" tvg-chno="524" group-title="Channel Samsung TV" , JTBC 비긴어게인
+https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC46000014A" tvg-id="KRBC46000014A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20231011T013510SQUARE.png_20231011013510.png" tvg-chno="525" group-title="Channel Samsung TV" , JTBC 크라임씬
+https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD4300001RQ" tvg-id="KRBD4300001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300001RQ_20231206T031625SQUARE.png_20231206031626.png" tvg-chno="526" group-title="Channel Samsung TV" , essential; by Bugs
+https://i.mjh.nz/SamsungTVPlus/KRBD4300001RQ.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230926T013833SQUARE.png_20230926013834.png" tvg-chno="533" group-title="Channel Samsung TV" , Mnet 스트릿 우먼 파이터 2 HOT CLIP
+https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD3100002JL" tvg-id="KRBD3100002JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20230926T013851SQUARE.png_20230926013852.png" tvg-chno="535" group-title="Channel Samsung TV" , tvN 유 퀴즈 온 더 블럭 HOT CLIP
+https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC40000010R" tvg-id="KRBC40000010R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20230926T013828SQUARE.png_20230926013829.png" tvg-chno="536" group-title="Channel Samsung TV" , Animax 반지의 비밀일기
+https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB5000364M" tvg-id="KRBB5000364M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20230926T013853SQUARE.png_20230926013854.png" tvg-chno="537" group-title="Channel Samsung TV" , 초록뱀미디어 K-STAR 골프
+https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20230913T010335SQUARE.png_20230913010336.png" tvg-chno="539" group-title="Channel Samsung TV" , PGA Tour
+https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB42000061Z" tvg-id="KRBB42000061Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20231114T070115SQUARE.png_20231114070116.png" tvg-chno="540" group-title="Channel Samsung TV" , SBS 편의점 샛별이
+https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200016TZ" tvg-id="KRBB4200016TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200016TZ_20230913T010346SQUARE.png_20230913010347.png" tvg-chno="541" group-title="Channel Samsung TV" , SBS 궁금한 이야기 Y
+https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC50000218R" tvg-id="KRBC50000218R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20230913T010312SQUARE.png_20230913010313.png" tvg-chno="542" group-title="Channel Samsung TV" , JTBC 톡파원25시
+https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC4400002AO" tvg-id="KRBC4400002AO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20231206T031611SQUARE.png_20231206031612.png" tvg-chno="543" group-title="Channel Samsung TV" , KBS 정도전
+https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC4600004BQ" tvg-id="KRBC4600004BQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4600004BQ_20231025T004645SQUARE.png_20231025004646.png" tvg-chno="544" group-title="Channel Samsung TV" , JTBC 괴물
+https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC50000228B" tvg-id="KRBC50000228B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000228B_20230913T010314SQUARE.png_20230913010315.png" tvg-chno="545" group-title="Channel Samsung TV" , JTBC 품위있는 그녀
+https://i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200009C3" tvg-id="KRBB4200009C3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20230913T010349SQUARE.png_20230913010350.png" tvg-chno="546" group-title="Channel Samsung TV" , SBS 나는 솔로
+https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD27000069Q" tvg-id="KRBD27000069Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20230913T010404SQUARE.png_20230913010405.png" tvg-chno="547" group-title="Channel Samsung TV" , TV조선 미스터트롯 영웅의 탄생
+https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD2700001QR" tvg-id="KRBD2700001QR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700001QR_20231206T031613SQUARE.png_20231206031615.png" tvg-chno="552" group-title="Channel Samsung TV" , TV조선 우리 이혼했어요
+https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD2700002IV" tvg-id="KRBD2700002IV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20230913T010401SQUARE.png_20230913010402.png" tvg-chno="553" group-title="Channel Samsung TV" , TV조선 골프왕
+https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD2700007S0" tvg-id="KRBD2700007S0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700007S0_20230913T010340SQUARE.png_20230913010341.png" tvg-chno="555" group-title="Channel Samsung TV" , PLAYY 영화
+https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB420000180" tvg-id="KRBB420000180" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20230913T010352SQUARE.png_20230913010353.png" tvg-chno="556" group-title="Channel Samsung TV" , SBS 스토브리그
+https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200004RA" tvg-id="KRBB4200004RA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200004RA_20231114T070139SQUARE.png_20231114070140.png" tvg-chno="557" group-title="Channel Samsung TV" , SBS 순풍산부인과
+https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC200005H6" tvg-id="KRBC200005H6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20230913T010330SQUARE.png_20230913010331.png" tvg-chno="558" group-title="Channel Samsung TV" , MBC 지붕뚫고 하이킥
+https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC2000010X" tvg-id="KRBC2000010X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20230913T010324SQUARE.png_20230913010325.png" tvg-chno="559" group-title="Channel Samsung TV" , MBC 거침없이 하이킥
+https://i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB50000711L" tvg-id="KRBB50000711L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230913T010327SQUARE.png_20230913010328.png" tvg-chno="561" group-title="Channel Samsung TV" , MBC 심야괴담회
+https://i.mjh.nz/SamsungTVPlus/KRBB50000711L.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC5000016BM" tvg-id="KRBC5000016BM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000016BM_20230913T010317SQUARE.png_20230913010318.png" tvg-chno="563" group-title="Channel Samsung TV" , JTBC 효리네 민박 시즌1
+https://i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200012PV" tvg-id="KRBB4200012PV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20230913T010358SQUARE.png_20230913010359.png" tvg-chno="565" group-title="Channel Samsung TV" , SBS 정글의 법칙
+https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3200007D1" tvg-id="KRBC3200007D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20230913T010427SQUARE.png_20230913010428.png" tvg-chno="566" group-title="Channel Samsung TV" , 맛있는 녀석들
+https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC5000015F5" tvg-id="KRBC5000015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000015F5_20231025T004642SQUARE.png_20231025004643.png" tvg-chno="567" group-title="Channel Samsung TV" , JTBC 힘쎈여자 도봉순
+https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC4100005N5" tvg-id="KRBC4100005N5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20230913T010434SQUARE.png_20230913010435.png" tvg-chno="570" group-title="Channel Samsung TV" , 채널A 이제 만나러 갑니다
+https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC4000003J2" tvg-id="KRBC4000003J2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20230913T010430SQUARE.png_20230913010431.png" tvg-chno="571" group-title="Channel Samsung TV" , 전우치
+https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC32000191N" tvg-id="KRBC32000191N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20231115T010827SQUARE.png_20231115010828.png" tvg-chno="575" group-title="Channel Samsung TV" , 사피엔스스튜디오
+https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC32000200B" tvg-id="KRBC32000200B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20231114T070154SQUARE.png_20231114070155.png" tvg-chno="577" group-title="Channel Samsung TV" , 역사 읽어드립니다
+https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3200021ZA" tvg-id="KRBC3200021ZA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20231115T010829SQUARE.png_20231115010830.png" tvg-chno="579" group-title="Channel Samsung TV" , 심리 읽어드립니다
+https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC320002200" tvg-id="KRBC320002200" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20231114T070152SQUARE.png_20231114070153.png" tvg-chno="580" group-title="Channel Samsung TV" , tvN 환혼
+https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC800016YS" tvg-id="KRBC800016YS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800016YS_20231114T070150SQUARE.png_20231114070151.png" tvg-chno="585" group-title="Channel Samsung TV" , tvN 대탈출3
+https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3500017PO" tvg-id="KRBC3500017PO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20230809T021325SQUARE.png_20230809021327.png" tvg-chno="601" group-title="Channel Samsung TV" , MBN 나는 자연인이다
+https://i.mjh.nz/SamsungTVPlus/KRBC3500017PO.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC32000126M" tvg-id="KRBC32000126M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20230809T021443SQUARE.png_20230809021444.png" tvg-chno="602" group-title="Channel Samsung TV" , ch.핑크퐁
+https://i.mjh.nz/SamsungTVPlus/KRBC32000126M.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200017HA" tvg-id="KRBB4200017HA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20230809T021344SQUARE.png_20230809021345.png" tvg-chno="604" group-title="Channel Samsung TV" , SBS 그것이 알고싶다
+https://i.mjh.nz/SamsungTVPlus/KRBB4200017HA.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3500014ZH" tvg-id="KRBC3500014ZH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20230809T021500SQUARE.png_20230809021501.png" tvg-chno="607" group-title="Channel Samsung TV" , 고독한 미식가
+https://i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB500034DY" tvg-id="KRBB500034DY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20230809T021301SQUARE.png_20230809021302.png" tvg-chno="609" group-title="Channel Samsung TV" , MBC every1 어서와 한국은 처음이지?
+https://i.mjh.nz/SamsungTVPlus/KRBB500034DY.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC4100001LY" tvg-id="KRBC4100001LY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20230809T021521SQUARE.png_20230809021522.png" tvg-chno="610" group-title="Channel Samsung TV" , 채널A 나만 믿고 따라와 도시어부
+https://i.mjh.nz/SamsungTVPlus/KRBC4100001LY.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC35000169K" tvg-id="KRBC35000169K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20230809T021433SQUARE.png_20230809021434.png" tvg-chno="613" group-title="Channel Samsung TV" , TV CHOSUN 국가가 부른다
+https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3500015BN" tvg-id="KRBC3500015BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20231025T004635SQUARE.png_20231025004636.png" tvg-chno="614" group-title="Channel Samsung TV" , 도라마코리아
+https://i.mjh.nz/SamsungTVPlus/KRBC3500015BN.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC46000173Y" tvg-id="KRBC46000173Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230809T021244SQUARE.png_20230809021245.png" tvg-chno="615" group-title="Channel Samsung TV" , JTBC 뉴스
+https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230809T021338SQUARE.png_20230809021339.png" tvg-chno="616" group-title="Channel Samsung TV" , Mnet 스트릿 우먼 파이터
+https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3500020AF" tvg-id="KRBC3500020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20230809T021328SQUARE.png_20230809021329.png" tvg-chno="618" group-title="Channel Samsung TV" , MBN 돌싱글즈
+https://i.mjh.nz/SamsungTVPlus/KRBC3500020AF.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200005CK" tvg-id="KRBB4200005CK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20231114T070118SQUARE.png_20231114070120.png" tvg-chno="620" group-title="Channel Samsung TV" , SBS 펜트하우스
+https://i.mjh.nz/SamsungTVPlus/KRBB4200005CK.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20231025T004651SQUARE.png_20231025004652.png" tvg-chno="621" group-title="Channel Samsung TV" , MBC 돈꽃
+https://i.mjh.nz/SamsungTVPlus/KRBB5000070U4.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD2000001BN" tvg-id="KRBD2000001BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230809T021510SQUARE.png_20230809021511.png" tvg-chno="622" group-title="Channel Samsung TV" , 뽀요TV
+https://i.mjh.nz/SamsungTVPlus/KRBD2000001BN.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20231114T070131SQUARE.png_20231114070132.png" tvg-chno="623" group-title="Channel Samsung TV" , MBC 안싸우면 다행이야
+https://i.mjh.nz/SamsungTVPlus/KRBC20000347.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB420001572" tvg-id="KRBB420001572" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20230809T021404SQUARE.png_20230809021405.png" tvg-chno="624" group-title="Channel Samsung TV" , SBS 빽드
+https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20231213T033737SQUARE.png_20231213033738.png" tvg-chno="626" group-title="Channel Samsung TV" , Animax 하이큐!!
+https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB500037T3" tvg-id="KRBB500037T3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20230809T021259SQUARE.png_20230809021300.png" tvg-chno="627" group-title="Channel Samsung TV" , MBC every1 별순검
+https://i.mjh.nz/SamsungTVPlus/KRBB500037T3.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC41000021C" tvg-id="KRBC41000021C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20230809T021523SQUARE.png_20230809021524.png" tvg-chno="628" group-title="Channel Samsung TV" , 채널A 요즘 육아 금쪽같은 내새끼
+https://i.mjh.nz/SamsungTVPlus/KRBC41000021C.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200002MM" tvg-id="KRBB4200002MM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20230809T021352SQUARE.png_20230809021353.png" tvg-chno="629" group-title="Channel Samsung TV" , SBS 런닝맨
+https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200003ZL" tvg-id="KRBB4200003ZL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20230809T021355SQUARE.png_20230809021356.png" tvg-chno="630" group-title="Channel Samsung TV" , SBS 미운 우리 새끼
+https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB500035VF" tvg-id="KRBB500035VF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20231114T070134SQUARE.png_20231114070135.png" tvg-chno="631" group-title="Channel Samsung TV" , 코코비TV
+https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB50000721W" tvg-id="KRBB50000721W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20231025T004648SQUARE.png_20231025004649.png" tvg-chno="632" group-title="Channel Samsung TV" , MBC 선을 넘는 녀석들
+https://i.mjh.nz/SamsungTVPlus/KRBB50000721W.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3200008M6" tvg-id="KRBC3200008M6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20230809T021441SQUARE.png_20230809021441.png" tvg-chno="633" group-title="Channel Samsung TV" , TV CHOSUN 식객 허영만의 백반기행
+https://i.mjh.nz/SamsungTVPlus/KRBC3200008M6.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200008PR" tvg-id="KRBB4200008PR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20230809T021350SQUARE.png_20230809021351.png" tvg-chno="634" group-title="Channel Samsung TV" , SBS 동상이몽2 - 너는 내 운명
+https://i.mjh.nz/SamsungTVPlus/KRBB4200008PR.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200011RB" tvg-id="KRBB4200011RB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200011RB_20230809T021358SQUARE.png_20230809021359.png" tvg-chno="635" group-title="Channel Samsung TV" , SBS 백종원의 골목식당
+https://i.mjh.nz/SamsungTVPlus/KRBB4200011RB.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB42000100V" tvg-id="KRBB42000100V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20230809T021401SQUARE.png_20230809021402.png" tvg-chno="637" group-title="Channel Samsung TV" , SBS 불타는 청춘
+https://i.mjh.nz/SamsungTVPlus/KRBB42000100V.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200014MY" tvg-id="KRBB4200014MY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20230809T021430SQUARE.png_20230809021431.png" tvg-chno="638" group-title="Channel Samsung TV" , SBS 패밀리가 떴다
+https://i.mjh.nz/SamsungTVPlus/KRBB4200014MY.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3500013VH" tvg-id="KRBC3500013VH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20231025T004639SQUARE.png_20231025004640.png" tvg-chno="642" group-title="Channel Samsung TV" , 로보카폴리 TV
+https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC4000002ME" tvg-id="KRBC4000002ME" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20230809T021445SQUARE.png_20230809021446.png" tvg-chno="644" group-title="Channel Samsung TV" , iHQ 돈쭐내러 왔습니다
+https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC4100008Z6" tvg-id="KRBC4100008Z6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20230809T021240SQUARE.png_20230809021241.png" tvg-chno="645" group-title="Channel Samsung TV" , E채널 토요일은 밥이 좋아
+https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC4000005EP" tvg-id="KRBC4000005EP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20230809T021254SQUARE.png_20230809021254.png" tvg-chno="646" group-title="Channel Samsung TV" , KBS Joy 연애의 참견
+https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3200009M7" tvg-id="KRBC3200009M7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20230809T021251SQUARE.png_20230809021252.png" tvg-chno="647" group-title="Channel Samsung TV" , KBS Joy 무엇이든 물어보살
+https://i.mjh.nz/SamsungTVPlus/KRBC3200009M7.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3500019CD" tvg-id="KRBC3500019CD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20230809T021331SQUARE.png_20230809021332.png" tvg-chno="648" group-title="Channel Samsung TV" , MBN 속풀이쇼 동치미
+https://i.mjh.nz/SamsungTVPlus/KRBC3500019CD.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200013L5" tvg-id="KRBB4200013L5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20230809T021410SQUARE.png_20230809021411.png" tvg-chno="649" group-title="Channel Samsung TV" , SBS 순간포착 세상에 이런일이
+https://i.mjh.nz/SamsungTVPlus/KRBB4200013L5.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB4200018FT" tvg-id="KRBB4200018FT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20230809T021407SQUARE.png_20230809021408.png" tvg-chno="651" group-title="Channel Samsung TV" , SBS 생활의 달인
+https://i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20230809T021334SQUARE.png_20230809021335.png" tvg-chno="652" group-title="Channel Samsung TV" , MBN 휴먼다큐 사노라면
+https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRAH1801500A" tvg-id="KRAH1801500A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20231206T031616SQUARE.png_20231206031617.png" tvg-chno="653" group-title="Channel Samsung TV" , 현대홈쇼핑
+https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD2200001QD" tvg-id="KRBD2200001QD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20230809T021516SQUARE.png_20230809021517.png" tvg-chno="654" group-title="Channel Samsung TV" , 우리의식탁
+https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD4400001QO" tvg-id="KRBD4400001QO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4400001QO_20231206T031628SQUARE.png_20231206031629.png" tvg-chno="655" group-title="Channel Samsung TV" , 인포벨 홈쇼핑
+https://i.mjh.nz/SamsungTVPlus/KRBD4400001QO.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRAH4602000A" tvg-id="KRAH4602000A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20231206T031608SQUARE.png_20231206031609.png" tvg-chno="700" group-title="Channel Samsung TV" , 현대홈쇼핑+Shop
+https://i.mjh.nz/SamsungTVPlus/KRAH4602000A.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20220824T112713SQUARE.png_20220824112714.png" tvg-chno="701" group-title="Channel Samsung TV" , NEW MOVIES
+https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" tvg-chno="731" group-title="Channel Samsung TV" , OGN 스타리그
+https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20231114T070137SQUARE.png_20231114070138.png" tvg-chno="752" group-title="Channel Samsung TV" , World Billiards TV
+https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD370000134" tvg-id="KRBD370000134" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20231101T012203SQUARE.png_20231101012204.png" tvg-chno="754" group-title="Channel Samsung TV" , TED
+https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB500039Y5" tvg-id="KRBB500039Y5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" tvg-chno="800" group-title="Channel Samsung TV" , Bloomberg TV+ UHD
+https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBB500044GP" tvg-id="KRBB500044GP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20230524T004225SQUARE.png_20230524004225.png" tvg-chno="801" group-title="Channel Samsung TV" , Bloomberg Originals
+https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD3100006X4" tvg-id="KRBD3100006X4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20231101T012207SQUARE.png_20231101012208.png" tvg-chno="802" group-title="Channel Samsung TV" , 글로벌 뉴스 by LeadStory
+https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC5000019FB" tvg-id="KRBC5000019FB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20230926T013822SQUARE.png_20230926013824.png" tvg-chno="834" group-title="Channel Samsung TV" , JTBC 최강야구
+https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC5000018O9" tvg-id="KRBC5000018O9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" tvg-chno="839" group-title="Channel Samsung TV" , JTBC 골프
+https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD1900001Y2" tvg-id="KRBD1900001Y2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20230712T012345SQUARE.png_20230712012346.png" tvg-chno="840" group-title="Channel Samsung TV" , FIFA+
+https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230726T002357SQUARE.png_20230726002358.png" tvg-chno="843" group-title="Channel Samsung TV" , KBS 개는 훌륭하다
+https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="Channel Samsung TV" , 씨네21+
+https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
+
+===========================================Channel Japan===============================
+#EXTINF:-1 group-title="Channel Japan" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="Channel Japan" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="Channel Japan" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV 
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="Channel Japan" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="Channel Japan" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="Channel Japan" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="Channel Japan" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="Channel Japan" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
+#EXTINF:-1 group-title="Channel Japan" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 group-title="Channel Japan" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 group-title="Channel Japan" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Channel Japan" tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Channel Japan" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1 group-title="Channel Japan" tvg-id="tvosaka" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", TV Osaka 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Channel Japan" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 group-title="Channel Japan" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 group-title="Channel Japan" tvg-id="nhkbsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BS Premium 4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 group-title="Channel Japan" tvg-id="bsntv" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png", BS NTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 group-title="Channel Japan" tvg-id="bsasahi" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png", BS Asahi  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 group-title="Channel Japan" tvg-id="bstbs" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png", BS TBS  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 group-title="Channel Japan" tvg-id="bstvtokyo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:-1 group-title="Channel Japan" tvg-id="bsfuji" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg", BS Fuji  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 group-title="Channel Japan" tvg-id="wowowprime" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOW Prime  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1 group-title="Channel Japan" tvg-id="wowowlive" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOW Live  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 group-title="Channel Japan" tvg-id="wowowcinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOW Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 group-title="Channel Japan" tvg-id="starch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 group-title="Channel Japan" tvg-id="starch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+#EXTINF:-1 group-title="Channel Japan" tvg-id="starch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", Star Channel 3  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+#EXTINF:-1 group-title="Channel Japan" tvg-id="greench" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", Green Channel  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+#EXTINF:-1 group-title="Channel Japan" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 group-title="Channel Japan" tvg-id="js1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 1  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="Channel Japan" tvg-id="js2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 2  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="Channel Japan" tvg-id="js3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 3  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="Channel Japan" tvg-id="js4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 4  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="Channel Japan" tvg-id="fishing" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png", BS Fishing Vision  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1 group-title="Channel Japan" tvg-id="wowowplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png", WOWOW Plus
+#https://code.vthanhtivi.pw/getlink/jptvvn/36/playlist.m3u8
+#EXTINF:-1 group-title="Channel Japan" tvg-id="nihoneiga" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png", BS Japan Movie Channel  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 group-title="Channel Japan" tvg-id="disneych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg", Disney Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 group-title="Channel Japan" tvg-id="homedrama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ホームドラマチャンネル / Home Drama Channel 
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="Channel Japan" tvg-id="toeich" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル / Toei Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 group-title="Channel Japan" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", 衛星劇場 / Eisei Gekijo 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1 group-title="Channel Japan" tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", 映画・チャンネルNECO / Neco 
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="Channel Japan" tvg-id="thecinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png", ザ・シネマ / The Cinema 
+#https://code.vthanhtivi.pw/getlink/jptvvn/141/playlist.m3u8
+#EXTINF:-1 group-title="Channel Japan" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス / Movie Plus
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 group-title="Channel Japan" tvg-id="skya" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", スカイ・A / Sky A  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="Channel Japan" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 group-title="Channel Japan" tvg-id="ntvgplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス / Nittele G+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1 group-title="Channel Japan" tvg-id="familygeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", ファミリー劇場 / Family Gekijyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+#EXTINF:-1 group-title="Channel Japan" tvg-id="fox" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-us.svg", FOX JAPAN
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="Channel Japan" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Channel Japan" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png", Music JapanTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Channel Japan" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション / Kids Staton TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="Channel Japan" tvg-id="cartoonnw" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 group-title="Channel Japan" tvg-id="disneyjr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", ディズニージュニア / Disney Junior
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 group-title="Channel Japan" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1 group-title="Channel Japan" tvg-id="natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png", Natgeo Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Channel Japan" tvg-id="historych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", History
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="cnnj" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-j-us-jp.png" group-title="Channel Japan",CNN Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="bbcnews" tvg-logo="https://www.ccn-catv.co.jp/service/tv/img/logo/bbcworldnews.png" group-title="Channel Japan",BBC NEWS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Channel Japan",日テレNEWS24
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="Channel Japan", NHK
+http://203.162.235.41:12091/
+#EXTINF:-1 group-title="Channel Japan", NHK World Japan
+http://203.162.235.41:13092/
+#EXTINF:-1 group-title="Channel Japan", NHK (no watermark)
+http://203.162.235.41:14093/
+#EXTINF:-1 group-title="Channel Japan", Fuji TV
+http://203.162.235.41:15094/
+#EXTINF:-1 group-title="Channel Japan", Nippon TV
+http://203.162.235.41:16095/
+#EXTINF:-1 group-title="Channel Japan", TV Asahi
+http://203.162.235.41:17097/
+#EXTINF:-1 group-title="Channel Japan", TBS
+http://203.162.235.41:18097/
+#EXTINF:-1 group-title="Channel Japan", TV Tokyo
+http://203.162.235.41:19098/
+#EXTINF:-1 group-title="Channel Japan", NHK BS1
+http://203.162.235.41:20099/
+#EXTINF:-1 group-title="Channel Japan", BS Fuji TV
+http://203.162.235.41:22101/
+#EXTINF:-1 group-title="Channel Japan", BS TV Tokyo
+http://203.162.235.41:23102/
+#EXTINF:-1 group-title="Channel Japan", BS Nippon TV
+http://203.162.235.41:24103/
+#EXTINF:-1 group-title="Channel Japan", NHK BS Premium (BSP)
+http://203.162.235.41:25104/
+#EXTINF:-1 group-title="Channel Japan", BS-TBS
+http://203.162.235.41:26105/
+#EXTINF:-1 group-title="Channel Japan", WOWOW
+https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowlaip.m3u8
+#EXTINF:-1 group-title="Channel Japan", WOWOW Prime A
+https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowprem.m3u8
+#EXTINF:-1 group-title="Channel Japan", WOWOW Prime B
+http://203.162.235.41:27106/
+#EXTINF:-1 group-title="Channel Japan", WOWOW Sinema
+https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowsinema.m3u8
+#EXTINF:-1 group-title="Channel Japan", Golf Network
+http://203.162.235.41:28107/
+#EXTINF:-1 group-title="Channel Japan", BS Asahi
+http://203.162.235.41:29108/
+
+==================================Channel Sony India====================================
+
+#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Channel Sony India",MBC Bollywood (1080p) [Geo-blocked]
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Channel Sony India",Bollywood Classic (1080p)
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Channel Sony India",Bollywood HD (1080p)
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Channel Sony India",SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Channel Sony India",Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Channel Sony India",Sony PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Channel Sony India",Sony YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Channel Sony India",Sony Marathi
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Channel Sony India",Sony AATH
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Channel Sony India",Sony MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Channel Sony India",Sony MAX
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Channel Sony India",Sony WAH
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Channel Sony India",Sony MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Channel Sony India",Sony PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Channel Sony India",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Zee India
+http://103.120.172.74:1040
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star India
+http://103.120.172.74:1060
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Colors
+http://103.120.172.74:1070
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Sony SAB
+http://103.120.172.74:1080
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",India news
+http://103.120.172.74:1090
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",StarPlus
+http://103.120.172.74:1120
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Zee TV
+http://103.120.172.74:1140
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Sony Max
+http://103.120.172.74:1150
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",DD news
+http://103.120.172.74:1170
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Zee TV
+http://103.120.172.74:4000
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star sports1
+http://103.120.172.74:4100
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star sports2
+http://103.120.172.74:4200
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",StarPlus
+http://103.120.172.74:4300
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",MTV
+http://103.120.172.74:4400
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star sports1
+http://103.120.172.74:4600
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star sports2
+http://103.120.172.74:4700
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star sports2
+http://103.120.172.74:4800
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star Gold
+http://103.120.172.74:5000
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Sony HD
+http://103.120.172.74:5100
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star India
+http://103.120.172.74:5200
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Sony Sport5
+http://103.120.172.74:5300
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Sony Sport1
+http://103.120.172.74:5400
+#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",NDTV
+http://103.120.172.74:5500
+
+=============================================== Optus Sports VPN ==========================================================
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/18/d4/XWnNAq9y_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/d7/c9/oMB8SAGF_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/bc/cf/yAHGQZOg_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea0621118ecd46ff982ca4af8c2a9837:3146695d2eed75d4b1e8005adeb2ebc6
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/ae/e2/iW6LtxlZ_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbf70a6fc0bc4adb8bf777400ee12415:02b39b93bdeb41329fe32d9aae7d32d5
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/29/19/WH3SJzTK_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ecaa9c5e14941d89281e932dcb5a91a:b3b74ce2a4fa1dd8135b566c939fc19f
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/c3/fb/uBLd9oSC_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f95b305610c54ef0a2aae0647456c477:ad60099095daeb7d1181edb22c4af590
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/e3/54/H3kT7LIq_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7659939fbb44194acb82baff73af8fc:f165f4f2e81772c8faf7f95df0fbfef0
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/22/29/RY1qcbX5_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c74521542a2455a9f60157f114bab4d:caecb6108d7a2efd26e76feb635730db
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/c0/a2/jk0ULwnh_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f07c62ce5020456dacd2e59228d176e5:e3a032681683c4d9cba2140a694324ce
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport9/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/11/01/fGmpns9w_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e70fa19da07042b2a5baf7d576338661:781b714f1503c5b7c60f3fe3c1922577
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport10/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/e0/4c/ZrSIaLFa_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f78f7e32001e4eea8365d7c22595a048:19d2c7da1312f547de174dbfe2f00b69
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport11/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/4e/8a/GsGHiYyC_o.jpg" group-title="Channel Optus Sports",OPTUS SPORT 12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=744d45c6dbe64b48a4c93ad96b89dcf0:e637b029d9d8288f2fd272219914c60a
+https://cors-proxy.pulsesoftware.com/https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport12/xbtss/drm/avc/dash/plain/manifest.mpdv
+
+==========================Channel Deddy Sports==============================================================
+#EXTINF:-1 tvg-id="SS PSL" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="Channel Deddy Sports",SUPERSPORT PSL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium413/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SS PL" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="Channel Deddy Sports",SUPERSPORT Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SS Football" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="Channel Deddy Sports",SUPERSPORT Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SS LaLiga" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="Channel Deddy Sports",SUPERSPORT La Liga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SS Variety 1" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="Channel Deddy Sports",SUPERSPORT Variety 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium416/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SS Variety 2" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="Channel Deddy Sports",SUPERSPORT Variety 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium417/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SS Variety 3" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="Channel Deddy Sports",SUPERSPORT Variety 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium418/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SS Variety 4" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="Channel Deddy Sports",SUPERSPORT Variety 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 .
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium419/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SS Golf" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="Channel Deddy Sports",SUPERSPORT Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium422/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar La Liga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium84/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar Vamos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium521/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar Liga de Campeones
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium435/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar Deportes Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium436/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar Deportes 1 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium437/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar Deportes 2 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar Deportes 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium526/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar Deportes 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium527/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar Golf Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium528/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar La Liga 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium538/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar La Liga 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium539/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Channel Deddy Sports",Movistar La Liga 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium540/index.m3u8
+
+
+#EXTINF:-1 tvg-name="SKY SPORTS F1" tvg-logo="https://i.ibb.co/MR7xhyW/Formula-1.jpg" group-title="Channel Deddy Sports",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8
+
+
+#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://i.ibb.co/V9ZtgmT/Main-event.jpg" group-title="Channel Deddy Sports",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium38/index.m3u8
+
+
+#EXTINF:-1 tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://i.ibb.co/c6YFRcQ/Premier-league.jpg" group-title="Channel Deddy Sports",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://i.ibb.co/HxZFzSy/Football.jpg" group-title="Channel Deddy Sports",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8
+
+
+#EXTINF:-1 tvg-name="SKY SPORTS ACTION" tvg-logo="https://i.ibb.co/gFxVKH1/Action.jpg" group-title="Channel Deddy Sports",Sky Sports Action
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8
+
+
+#EXTINF:-1 tvg-name="SKY SPORTS ARENA" tvg-logo="https://i.ibb.co/5R8V0BL/Arena.jpg" group-title="Channel Deddy Sports",Sky Sports Arena
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium36/index.m3u8
+
+
+#EXTINF:-1 tvg-name="SKY SPORTS CRICKET" tvg-logo="https://i.ibb.co/CpcgXh2/Cricket.jpg" group-title="Channel Deddy Sports",Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium65/index.m3u8
+
+
+#EXTINF:-1 tvg-name="SKY SPORTS GOLF" tvg-logo="https://i.ibb.co/GWQWk50/Golf.jpg" group-title="Channel Deddy Sports",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium70/index.m3u8
+
+
+#EXTINF:-1 tvg-name="SKY SPORTS NEWS" tvg-logo="https://i.ibb.co/djrR3QW/News.jpg" group-title="Channel Deddy Sports",Sky Sports News
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium366/index.m3u8
+
+
+#EXTINF:-1 group-title="Channel Deddy Sports" tvg-id="SkySports1.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sky_Sport_1_-_Logo_2015.svg/2560px-Sky_Sport_1_-_Logo_2015.svg.png" ,SKY SPORT 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium588/index.m3u8 
+
+#EXTINF:-1 group-title="Channel Deddy Sports" tvg-id="SkySports2.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sky_Sport_2_-_Logo_2015.svg/1280px-Sky_Sport_2_-_Logo_2015.svg.png" ,SKY SPORT 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium589/index.m3u8 
+
+#EXTINF:-1 group-title="Channel Deddy Sports" tvg-id="SkySports3.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_3_-_Logo_2015.svg/2560px-Sky_Sport_3_-_Logo_2015.svg.png" ,SKY SPORT 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8 
+
+#EXTINF:-1 group-title="Channel Deddy Sports" tvg-id="SkySports4.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_Sport_4_-_Logo_2016.svg/2560px-Sky_Sport_4_-_Logo_2016.svg.png" ,SKY SPORT 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium591/index.m3u8
+
+
+#EXTINF:-1 group-title="Channel Deddy Sports" tvg-id="SkySports5.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Sky_Sport_Bundesliga_5_HD_Logo_2016.png" ,SKY SPORT 5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium592/index.m3u8
+
+
+#EXTINF:-1 group-title="Channel Deddy Sports" tvg-id="SkySports6.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Sky_Sport_Bundesliga_6_HD_Logo_2016.png" ,SKY SPORT 6 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium593/index.m3u8
+
+
+#EXTINF:-1 group-title="Channel Deddy Sports" tvg-id="SkySports7.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Sky_Sport_Bundesliga_7_HD_Logo_2016.png" ,SKY SPORT 7 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium594/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Sky_Sport_Bundesliga_8_HD_Logo_2016.png" group-title="Channel Deddy Sports",SKY SPORT 8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium595/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Channel Deddy Sports" tvg-id="SkySports9.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_9_HD_Logo_2016.png" ,SKY SPORT 9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium596/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZaijuvbPBvhn36G7_qYOuVgnMUVFkj4-Zhg&usqp=CAU" group-title="Channel Deddy Sports",Ziggo Sport Select 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium393/index.m3u8 
+
+#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHSRKvBh9Ou7Fi3UY7lBNaXuLKcrjwrtNCg&usqp=CAU" group-title="Channel Deddy Sports",Ziggo Sport Voetbal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium398/index.m3u8 
+
+#EXTINF:-1 tvg-id="ZiggoSportGolf.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABNXMpALjhnyvMN_FewC37QU6lc4LfBFS6A&usqp=CAU" group-title="Channel Deddy Sports",Ziggo Sport Golf 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium397/index.m3u8 
+
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Ziggo_Sport_Racing.svg/revision/latest/scale-to-width-down/250?cb=20210222131502" group-title="Channel Deddy Sports",Ziggo Sport Racing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium396/index.m3u8 
+
+#EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4ZjVqfynr3sGvplQks2ijEOSPUoeFTexHA&usqp=CAU" group-title="Channel Deddy Sports",Ziggo Sport Docu 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium383/index.m3u8 
+
+########################## RELIGI ##########################
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png", Ajwa TV (vidio)
+#https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=7464&type=hls
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.imgur.com/MfogyNo.png",DEI Kids TV
+https://e.siar.us/live/deikidstv.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://mqtv.co.id/wp-content/uploads/2021/04/Logo_MQTV_Original-1024x258.png", MQTV
+https://5bf7b725107e5.streamlock.net:443/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Religi" tvg-logo="https://yt3.ggpht.com/r0lQLIarubPwEK5GgkajuARgBc90ePLajzDzMhyXpd10gSrAkymmHMoYFyHsSfyb5lioR2otIMI=s900-c-k-c0x00ffffff-no-rj",Alwafa Tarim TV
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV 
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_small1.png?v=2.0.0.13?v=2.0.0.9" group-title="Religi",TVMU
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0aMNwQa.png" group-title="Religi",Al Quran Al Kareem TV (Mecca) 
+https://edge.taghtia.com/sa/7.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png" group-title="Religi",Al Quran Al Kareem TV (V+)
+https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/84nqj99.png" group-title="Religi",Al Sunnah Al Nabawiyah TV (Medina) 
+https://edge.taghtia.com/sa/6.m3u8
+
+
+
+#EXTINF:-1  tvg-id="MTATV.id" group-title="Religi" tvg-logo="http://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png",MTATV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+
+
+#EXTINF:-1  tvg-id="MTATV.id" group-title="Religi" tvg-logo="http://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png",MTATV (BU) 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/OfficialMTATV/live
+
+
+#EXTINF:-1 tvg-id="AswajaTV.id" status="online" group-title="Religi" tvg-logo="https://play-lh.googleusercontent.com/9uWeddJOMkNHxbC4YIVpFxBNdzzB0kIyH5g3SuA-HvFN02_gEiyvsuckKTSynW8l2g",Aswaja TV 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x748iuo
+
+
+
+https://bravo.kugo.id/salingsapa/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkwhW567/SALAM-TV.png" group-title="Religi",Salam TV
+#http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h42KLq47/MADANI-TV.png" group-title="Religi",MADANI TV
+https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://i.postimg.cc/HLg518vx/BRITISH-MUSLIM.png" group-title="Religi",British Muslim
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+
+
+#EXTINF:1 tvg-logo="https://i.postimg.cc/KcHMvHpC/ISLAM-CHANNEL.png" group-title="Religi",Islam Channel
+#https://5ea835027d05e.streamlock.net/islam/islamtv/chunklist_w1596083799.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png" group-title="Religi",Iqraa TV
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
+
+
+#EXTINF:-114 group-title="Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg",Citra Muslim (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citramuslim.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png",TV Mu
+https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png",Muslim TV
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Quran TV
+https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
+https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 Nusantara
+https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="Religi",Khazanah (T*) 
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+=================Religi (Sunnah)==========================
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="sunnahtv.sa" tvg-logo="https://iptv.urfan.web.id/logo/sunnahtv.png",Sunnah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://iptv.urfan.web.id/logo/qurantv.png",Qur'an TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="deikids.id" tvg-logo="https://iptv.urfan.web.id/logo/deikids.png",DeiKids TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://e.siar.us/live/deikidstv.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="salamtv.id" tvg-logo="https://iptv.urfan.web.id/logo/salamtv.png",Salam TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UCFWSeoGcqvCYiItMuWof0qg.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="madanitv.id" tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png",Madani TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="tv10.id" tvg-logo="https://iptv.urfan.web.id/logo/tv10.png",TV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="tarbiyahsunnahtv.id" tvg-logo="https://iptv.urfan.web.id/logo/tarbiyahsunnahtv.png",Tarbiyah Sunnah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="tvannasihah.id" tvg-logo="https://iptv.urfan.web.id/logo/tvannasihah.png",TV An-Nashihah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UCuFC59Zh7N1Hw45arhoMpCw.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="marhabantv.id" tvg-logo="https://iptv.urfan.web.id/logo/marhabantv.png",Marhaban TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UC7ijSJ_SyRqg_MqoGedoZTA.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="RodjaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rodjatv.png",Rodja TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="khbtv.id" tvg-logo="https://iptv.urfan.web.id/logo/khbtv.png",KHB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="sjptv.id" tvg-logo="https://iptv.urfan.web.id/logo/sjptv.png",SunnahJalanPasti TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UCoPO7QD-HlBn7B02OMOsJJQ.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="rifqantv.id" tvg-logo="https://iptv.urfan.web.id/logo/rifqantv.png",Rifqan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UCkrLd1cy4AUOp1pAdu1Ru7Q.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="albinaatv.id" tvg-logo="https://iptv.urfan.web.id/logo/albinaatv.png",Albinaa TV
+#EXTVLCOPT:http-user-https://www.youtube.com/@RifqanTVagent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UCdq-DJ5MS7qjd1aXPFg71Yg.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="srbtv.id" tvg-logo="https://iptv.urfan.web.id/logo/srbtv.png",SRB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="gazwahtv.id" tvg-logo="https://iptv.urfan.web.id/logo/gazwahtv.png",Gazwah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UCD2OdkHPO_t0MZEbmb3cioQ.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="medstv.id" tvg-logo="https://iptv.urfan.web.id/logo/medstv.png",MedSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls-v2.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="artvisi.id" tvg-logo="https://iptv.urfan.web.id/logo/artvisi.png",ARTVISI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.yufid.com/hls/artvisi.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="tvsunnah.id" tvg-logo="https://iptv.urfan.web.id/logo/tvsunnah.png",TV Sunnah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="surautv.id" tvg-logo="https://iptv.urfan.web.id/logo/surautv.png",Surau TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="izzahtv.id" tvg-logo="https://iptv.urfan.web.id/logo/izzahtv.png",Izzah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXWckSEKhmdQTtfZm4IOdAE6iv_tRN53p66jaa9=s900-c-k-c0x00ffffff-no-rj",Artvisi
+https://streaming.yufid.com/hls/artvisi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/radiokitatv.png" group-title="Religi (Sunnah)",TV Sunnah
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Robbani TV" tvg-logo="https://i.ibb.co/Q8pbNCM/Robbani.png" group-title="Religi (Sunnah)",Robbani TV
+https://etus.link/iptvsunnah_robbanitv
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-103 group-title="Religi (Sunnah)" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Wesal_TV.png/revision/latest?cb=20180922124258", Wesaltv
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-104 group-title="Religi (Sunnah)" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-105 group-title="Religi (Sunnah)" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
+https://tv.aliman.id/aliman/live.m3u8
+
+-----------------------------------Murottal--------------------------------
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdurrahman Al Sudais" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Abdurrahman Al Sudais
+https://qurango.net/radio/abdulrahman_alsudaes
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mishary Rashid Al-Afasy" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Mishary Rashid Al-Afasy
+https://qurango.net/radio/mishary_alafasi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saad Al Ghamidi" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Saad Al Ghamidi
+https://qurango.net/radio/saad_alghamdi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ali Jaber" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Ali Jaber
+https://qurango.net/radio/ali_jaber
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohammed Ayyoub" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Mohammed Ayyoub
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saud Al Shuraim" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Saud Al Shuraim
+https://qurango.net/radio/saud_alshuraim
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nabil Ar Rifa'i" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Nabil Ar Rifa'i
+https://qurango.net/radio/nabil_al_rifay
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hani Ar Rifa'i" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Hani Ar Rifa'i
+https://qurango.net/radio/hani_arrifai
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasser Al Qatami" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Nasser Al Qatami
+https://qurango.net/radio/nasser_alqatami
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yasser Ad Dossary" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Yasser Ad Dossary
+https://qurango.net/radio/yasser_aldosari
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Bakr Al Shatri" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Abu Bakr Al Shatri
+https://qurango.net/radio/shaik_abu_bakr_al_shatri
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maher Al Muaeqaly" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Maher Al Muaeqaly
+https://qurango.net/radio/maher_al_meaqli
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdul Mohsen Al-Qasim" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Abdul Mohsen Al-Qasim
+https://qurango.net/radio/abdulmohsen_alqasim
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ali Al-Hudzaifi" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Ali Al-Hudzaifi
+https://qurango.net/radio/ali_alhuthaifi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mahmoud Khalil Al-Hussary" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Mahmoud Khalil Al-Hussary
+https://qurango.net/radio/mahmoud_khalil_alhussary
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdullah Al-Mathrood" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Abdullah Al-Mathrood
+https://qurango.net/radio/abdullah_almattrod
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khalifa Al-Tunaijjiy" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Khalifa Al-Tunaijjiy
+https://qurango.net/radio/khalifa_altunaiji
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Idris Akbar" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Idris Akbar
+https://qurango.net/radio/idrees_abkr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Salah Bukhatir" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Salah Bukhatir
+https://qurango.net/radio/slaah_bukhatir
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fares Abbad" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal",Fares Abbad
+https://qurango.net/radio/fares_abbad
