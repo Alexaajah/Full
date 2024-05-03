@@ -3673,8 +3673,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a
 #EXTINF:-1 tvg-name="DREAMWORS" tvg-logo="https://hometv.pw/logo/kids/dreamworks.png" group-title="Anak",DREAMWORS (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Anak", Discovery Kid (L*)
+#EXTINF:-1 tvg-logo="" group-title="Anak", Discovery tv (L*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anak", Mentari Tv(L*
+https://app-etslive-2.vidio.com/live/8237/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_horee_ver1.png" group-title="Anak", Horee (Indi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
